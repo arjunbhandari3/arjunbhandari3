@@ -33,7 +33,6 @@
 [<img alt="html5" width="35px" src="https://img.icons8.com/color/240/000000/html-5.png">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img alt="css3" width="35px" src="https://img.icons8.com/color/240/000000/css3.png">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img alt="sass" width="35px" src="https://img.icons8.com/color/240/000000/sass.png">](https://sass-lang.com/)
-[<img alt="json" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">](https://www.json.org/json-en.html)
 [<img alt="Node.js" width="35px" src="https://img.icons8.com/color/240/000000/nodejs.png">](https://nodejs.org/en/)
 [<img alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">](https://dev.mysql.com/)
 [<img alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">](https://www.mongodb.com/)
