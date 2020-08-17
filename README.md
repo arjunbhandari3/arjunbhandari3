@@ -33,6 +33,7 @@
 [<code>
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
+[<code>
 <img alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 </code>](https://flutter.dev/)
 [<code>
@@ -57,16 +58,15 @@
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
 </code>](https://www.json.org/json-en.html)
 [<code>
-[<code>
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
 [<code>
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
-  [<code>
+[<code>
 <img alt="MongoDB" width="26px" src=" https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 </code>](https://www.mongodb.com/)
- <img alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+<img alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 </code>](https://firebase.google.com/) 
 [<code>
 <img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
@@ -85,9 +85,12 @@
 ---
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
-![Arjun Bhandari's Github Stats](https://github-readme-stats.vercel.app/api?username=arjunbhandari3&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
-![Arjun Bhandari's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbhandari3&layout=compact&theme=dark)
->
+
+<a href="https://github-readme-stats.vercel.app/api?username=arjunbhandari3&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark">
+<img align="center" alt="Arjun Bhandari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arjunbhandari3&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" /></a>
+<a href="(https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbhandari3&layout=compact&theme=dark">
+  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbhandari3&layout=compact&theme=dark" />
+</a>
 
 ---
 
