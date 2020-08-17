@@ -4,7 +4,7 @@
 -->
 ### Hi there 👋, I'm [Arjun Bhandari][website]
 
-## I'm a Undergraduate Student, Web Developer & Flutter Developer.!
+## I'm a Undergraduate Student, Web Developer & Flutter Developer!
 
 - 🔭 I’m currently studying BE in Computer Engineering in Kathmandu University!
 - 🌱 I’m currently learning Fullstack and Machine Learning
@@ -66,6 +66,7 @@
 [<code>
 <img alt="MongoDB" width="26px" src=" https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 </code>](https://www.mongodb.com/)
+[<code>
 <img alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 </code>](https://firebase.google.com/) 
 [<code>
@@ -86,11 +87,8 @@
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
-<a href="https://github-readme-stats.vercel.app/api?username=arjunbhandari3&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark">
-<img align="center" alt="Arjun Bhandari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arjunbhandari3&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" /></a>
-<a href="(https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbhandari3&layout=compact&theme=dark">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbhandari3&layout=compact&theme=dark" />
-</a>
+<img align="left" alt="Arjun Bhandari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arjunbhandari3&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" />
+<img align="right" alt="Most Languages Used" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbhandari3&layout=compact&theme=dark" />
 
 ---
 
