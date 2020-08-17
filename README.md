@@ -46,10 +46,10 @@
 ---
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
-
-<img align="left" alt="Arjun Bhandari's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arjunbhandari3&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" />
-<img align="right" alt="Most Languages Used" src="(https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arjunbhandari3&layout=compact&theme=dark" />
-
+<p align="center">
+<img align="center" alt="Arjun Bhandari's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arjunbhandari3&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" />
+<img align="center" src="(https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arjunbhandari3&layout=compact&theme=dark" />
+</p>
 ---
 
 [website]: https://bhandariarjun.com.np
