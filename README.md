@@ -47,7 +47,7 @@
 
 |                                                 My Github Stats                                                 |                                                      Top Languages                                                      |
 | :-------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-| ![My github stats](https://github-readme-stats.codestackr.vercel.app/api?username=arjunbhandari3&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbhandari3&layout=compact&theme=dark) |
+| ![My github stats](https://github-readme-stats.vercel.app/api?username=arjunbhandari3&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbhandari3&layout=compact&theme=dark) |
 
 ---
 
