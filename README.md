@@ -47,7 +47,7 @@
 
 |                                                 My Github Stats                                                 |                                                      Top Languages                                                      |
 | :-------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-| ![My github stats](https://github-readme-stats.vercel.app/api?username=arjunbhandari3&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbhandari3&layout=compact&theme=dark&hide=html,css,scss,Handlebars) |
+| ![My github stats](https://github-readme-stats.vercel.app/api?username=arjunbhandari3&show_icons=true&hide=prs&hide_border=true&count_private=true&include_all_commits=true&theme=algolia) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbhandari3&layout=compact&theme=algolia&hide=html,css,scss,Handlebars) |
 
 ---
 ### Pinned Repositories
