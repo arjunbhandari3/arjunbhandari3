@@ -47,7 +47,15 @@
 
 |                                                 My Github Stats                                                 |                                                      Top Languages                                                      |
 | :-------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-| ![My github stats](https://github-readme-stats.vercel.app/api?username=arjunbhandari3&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbhandari3&layout=compact&theme=dark) |
+| ![My github stats](https://github-readme-stats.vercel.app/api?username=arjunbhandari3&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbhandari3&layout=compact&theme=dark&hide=html,css,scss,Handlebars) |
+
+---
+### Pinned Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arjunbhandari3&repo=KUMeet&show_owner=true&theme=highcontrast)](https://github.com/arjunbhandari3/KUMeet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arjunbhandari3&repo=MusicRecommender&show_owner=true&theme=highcontrast)](https://github.com/arjunbhandari3/MusicRecommender)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arjunbhandari3&repo=flutter_note_sqflite&show_owner=true&theme=highcontrast)](https://github.com/arjunbhandari3/flutter_note_sqflite)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arjunbhandari3&repo=raterestro&show_owner=true&theme=highcontrast)](https://github.com/arjunbhandari3/raterestro)
 
 ---
 
