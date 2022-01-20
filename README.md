@@ -8,8 +8,8 @@
 
 - 🔭 I’m currently studying BE in Computer Engineering in Kathmandu University
 - 🌱 I’m currently learning Fullstack and Machine Learning
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other Flutter Developers
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
