@@ -2,7 +2,7 @@
 ### Hi there 👋
 **arjunbhandari3/arjunbhandari3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hi there 👋, I'm [Arjun Bhandari][website]
+### Hi there 👋, I'm [Arjun Bhandari][website] ![Profile views](https://gpvc.arturio.dev/arjunbhandari3)
 
 ## I'm a Undergraduate Student, Web Developer & Flutter Developer!
 
@@ -13,10 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Arjun" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Arjun | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Arjun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Arjun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Arjun" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Arjun | Facebook" width="30px" src="https://logosarchive.com/wp-content/uploads/2021/06/Facebook-Blue-icon.svg" />][facebook]
+[<img align="left" alt="Arjun | LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Arjun | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 
 <br />
 
@@ -43,6 +43,18 @@
 [<img alt="terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">](https://docs.microsoft.com/en-us/windows/terminal/)
 <br />
 
+---
+ 
+|                                                 My Github Streak                                              |
+| :-------------------------------------------------------------------------------------------------------------: |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjunbhandari3&&theme=algolia&&fire=FF8C00)](https://git.io/streak-stats) |
+
+|                                                 My Activities                                              |
+| :-------------------------------------------------------------------------------------------------------------: |
+| [![GitHub Activities](https://activity-graph.herokuapp.com/graph?username=arjunbhandari3&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/arjunbhandari3/github-readme-activity-graph) |
+
+
+<!-- <a href="https://github.com/meashishpokhrel/github-readme-activity-graph"><img alt="Ashish Pokhrel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=meashishpokhrel&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 ---
 
 |                                                 My Github Stats                                                 |                                                      Top Languages                                                      |
