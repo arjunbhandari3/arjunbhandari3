@@ -45,21 +45,19 @@
 
 ---
  
-|                                                 My Github Streak                                              |
-| :-------------------------------------------------------------------------------------------------------------: |
+| My Github Streak |
+| :------: |
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjunbhandari3&&theme=algolia&&fire=FF8C00)](https://git.io/streak-stats) |
 
-|                                                 My Activities                                              |
-| :-------------------------------------------------------------------------------------------------------------: |
+| My Activities |
+| :-----: |
 | [![GitHub Activities](https://activity-graph.herokuapp.com/graph?username=arjunbhandari3&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/arjunbhandari3/github-readme-activity-graph) |
 
-
-<!-- <a href="https://github.com/meashishpokhrel/github-readme-activity-graph"><img alt="Ashish Pokhrel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=meashishpokhrel&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 ---
 
-|                                                 My Github Stats                                                 |                                                      Top Languages                                                      |
-| :-------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-| ![My github stats](https://github-readme-stats.vercel.app/api?username=arjunbhandari3&show_icons=true&hide=prs&hide_border=true&count_private=true&include_all_commits=true&theme=algolia) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbhandari3&layout=compact&theme=algolia&hide=html,css,scss,Handlebars) |
+|  My Github Stats | Top Languages |
+| :-----: | :-----: |
+| ![My github stats](https://github-readme-stats.vercel.app/api?username=arjunbhandari3&show_icons=true&hide=prs&hide_border=true&count_private=true&theme=algolia) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbhandari3&layout=compact&theme=algolia&hide=html,css,scss,Handlebars) |
 
 ---
 ### Pinned Repositories
