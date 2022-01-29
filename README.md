@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Arjun" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Arjun" width="30px" src="https://www.nicepng.com/png/full/170-1709508_web-solutions-web-icon-white-png.png" />][website]
 [<img align="left" alt="Arjun | Facebook" width="30px" src="https://logosarchive.com/wp-content/uploads/2021/06/Facebook-Blue-icon.svg" />][facebook]
 [<img align="left" alt="Arjun | LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Arjun | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
