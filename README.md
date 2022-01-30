@@ -7,7 +7,7 @@
 ## I'm a Undergraduate Student, Web Developer & Flutter Developer!
 
 - 🔭 I’m currently studying BE in Computer Engineering in Kathmandu University
-- 🌱 I’m currently learning Fullstack and Machine Learning
+- 🌱 I’m currently focusing Fullstack
 - 👯 I’m looking to collaborate with other Flutter Developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
