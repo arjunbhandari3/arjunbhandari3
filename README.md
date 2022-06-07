@@ -2,7 +2,7 @@
 ### Hi there 👋
 **arjunbhandari3/arjunbhandari3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### <h1 align="center">Hello ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Arjun Bhandari][website] ![Profile views](https://gpvc.arturio.dev/arjunbhandari3)</h1>
+### <h1 align="center">Hello ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm [Arjun Bhandari][website] ![Profile views](https://gpvc.arturio.dev/arjunbhandari3)</h1>
 ### <h3 align="center">A Full Stack & Flutter Developer!</h3>
 
 ## 🙋‍♂️ About Me 
