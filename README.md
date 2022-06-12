@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me 
 
-- 🔭 I’m currently studying BE in Computer Engineering in Kathmandu University
+- 🔭 I have completed BE in Computer Engineering from Kathmandu University
 - 🌱 I’m currently focusing Fullstack
 - 👯 I’m looking to collaborate with other Flutter Developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
