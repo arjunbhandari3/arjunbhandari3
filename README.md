@@ -45,10 +45,6 @@
 <br />
 
 ---
- 
-| My Github Streak |
-| :------: |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjunbhandari3&&theme=algolia&&fire=FF8C00)](https://git.io/streak-stats) |
 
 | My Activities |
 | :-----: |
@@ -56,9 +52,9 @@
 
 ---
 
-|  My Github Stats | Top Languages |
-| :-----: | :-----: |
-| ![My github stats](https://github-readme-stats.vercel.app/api?username=arjunbhandari3&show_icons=true&hide_border=true&count_private=true&theme=algolia) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbhandari3&layout=compact&theme=algolia&hide=html,css,scss,Handlebars) |
+|  My Github Stats | My Github Streak | Top Languages |
+| :-----: | :-----: | :-----: |
+| ![My github stats](https://github-readme-stats.vercel.app/api?username=arjunbhandari3&show_icons=true&hide_border=true&count_private=true&theme=algolia) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjunbhandari3&&theme=algolia&&fire=FF8C00)](https://git.io/streak-stats) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbhandari3&layout=compact&theme=algolia&hide=html,css,scss,Handlebars) |
 
 ---
 ### Pinned Repositories
