@@ -67,6 +67,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arjunbhandari3&repo=MusicRecommender&show_owner=true&theme=highcontrast)](https://github.com/arjunbhandari3/MusicRecommender)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arjunbhandari3&repo=flutter_note_sqflite&show_owner=true&theme=highcontrast)](https://github.com/arjunbhandari3/flutter_note_sqflite)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arjunbhandari3&repo=raterestro&show_owner=true&theme=highcontrast)](https://github.com/arjunbhandari3/raterestro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arjunbhandari3&repo=vaccine-manager&show_owner=true&theme=highcontrast)](https://github.com/arjunbhandari3/vaccine-manager)
 
 ---
 
