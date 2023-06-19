@@ -44,23 +44,7 @@
 [<img alt="terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">](https://docs.microsoft.com/en-us/windows/terminal/)
 <br />
 
----
-
- | My Github Streak |
- | :-----: |
- | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjunbhandari3&&theme=algolia&&fire=FF8C00)](https://git.io/streak-stats) |
-
-| My Activities |
-| :-----: |
-| [![GitHub Activities](https://activity-graph.herokuapp.com/graph?username=arjunbhandari3&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/arjunbhandari3/github-readme-activity-graph) |
-
----
-
-|  My Github Stats | Top Languages |
-| :-----: | :-----: |
-| ![My github stats](https://github-readme-stats.vercel.app/api?username=arjunbhandari3&show_icons=true&hide_border=true&count_private=true&theme=algolia) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunbhandari3&layout=compact&theme=algolia&hide=html,css,scss,Handlebars) |
-
----
+--- 
 ### Pinned Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arjunbhandari3&repo=KUMeet&show_owner=true&theme=highcontrast)](https://github.com/arjunbhandari3/KUMeet)
