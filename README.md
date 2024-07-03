@@ -7,10 +7,10 @@
 
 ## 🙋‍♂️ About Me 
 
-- 🔭 I'm currently working as a Full Stack Developer at Leapfrog Technology Inc.
-- 🌱 I’m currently focusing Fullstack
-- 👯 I’m looking to collaborate with other Flutter Developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🔭 I work as a Full Stack Developer at Leapfrog Technology Inc.
+- 🌱 I’m currently focusing on Fullstack
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
