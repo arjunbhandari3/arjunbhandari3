@@ -46,7 +46,7 @@
 
 --- 
 ### Pinned Repositories
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arjunbhandari3&repo=symptom-checker&show_owner=true&theme=highcontrast)](https://github.com/arjunbhandari3/symptom-checker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arjunbhandari3&repo=KUMeet&show_owner=true&theme=highcontrast)](https://github.com/arjunbhandari3/KUMeet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arjunbhandari3&repo=MusicRecommender&show_owner=true&theme=highcontrast)](https://github.com/arjunbhandari3/MusicRecommender)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arjunbhandari3&repo=flutter_note_sqflite&show_owner=true&theme=highcontrast)](https://github.com/arjunbhandari3/flutter_note_sqflite)
