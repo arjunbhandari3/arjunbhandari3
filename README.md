@@ -10,7 +10,7 @@
 - 🔭 I work as a Senior Software Engineer at Leapfrog Technology Inc.
 - 🌱 I’m currently focusing on AWS.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2024 Goals: Contribute more to Open Source projects.
+- 🥅 2025 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
 
