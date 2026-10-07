@@ -3,14 +3,13 @@
 **arjunbhandari3/arjunbhandari3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### <h1 align="center">Hello!, I'm [Arjun Bhandari][website] ![Profile views](https://gpvc.arturio.dev/arjunbhandari3)</h1>
-### <h3 align="center">A Full Stack & Flutter Developer!</h3>
+### <h3 align="center">Full Stack Developer!</h3>
 
 ## 🙋‍♂️ About Me 
 
 - 🔭 I work as a Senior Software Engineer at Leapfrog Technology Inc.
-- 🌱 I’m currently focusing on AWS.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2025 Goals: Contribute more to Open Source projects.
+- 🥅 2026 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
 
